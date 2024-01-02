@@ -1,0 +1,51 @@
+
+
+.center{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.info{
+    text-align: center;
+}
+
+.about{
+    text-align: center;
+}
+
+.imp{
+    text-align: center;
+}
+
+.card1{
+    border: 3px solid black;
+    box-shadow: o 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 2px 16px;
+    border-radius: 5px;
+    width: 30%;
+    margin: 5px;
+}
+.card2{
+    border: 3px solid black;
+    box-shadow: o 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 2px 16px;
+    border-radius: 5px;
+    width: 30%;
+    margin: 5px;
+
+}
+.card3{
+    border: 3px solid black;
+    box-shadow: o 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 2px 16px;
+    border-radius: 5px;
+    width: 30%;
+    margin: 5px;
+}
+
+.flex{
+    display: flex;
+}
